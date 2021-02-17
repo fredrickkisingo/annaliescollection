@@ -1,0 +1,3 @@
+<div>
+Cart page
+</div>
